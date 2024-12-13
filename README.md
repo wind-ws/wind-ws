@@ -31,6 +31,11 @@
     * 着色器语言
 
       ![WGSL](https://img.shields.io/badge/-WGSL-000?logo=wgsl)
+
+    * Blockchain(Web3)
+      ![Solidity]
+      
+      
 * 编程框架/工具
 
     * 服务端开发
@@ -57,6 +62,13 @@
 * 平台
 
   ![Arch](https://img.shields.io/badge/Arch%20Linux-000?logo=arch-linux&logoColor=fff)
+
+* Blockchain(Web3)
+
+  ![Kaspa] (future)
+  ![Solana]
+  ![BitCoin]
+  ![Ethereum]
 
 * 其他工具
   
